@@ -1,0 +1,37 @@
+{
+  "detail" : {
+    "away" : "Newcastle",
+    "awayURL" : "https:\/\/www.flashscore.com\/team\/newcastle-utd\/p6ahwuwJ\/",
+    "date" : "14.09.2026 21:00",
+    "headers" : [
+      {
+        "label" : "1st Half",
+        "score" : "3 - 0"
+      },
+      {
+        "label" : "2nd Half",
+        "score" : "1 - 1"
+      }
+    ],
+    "home" : "Leeds",
+    "homeURL" : "https:\/\/www.flashscore.com\/team\/leeds\/tUxUbLR2\/",
+    "score" : [
+      4,
+      1
+    ],
+    "statusText" : "Finished",
+    "url" : "https:\/\/www.flashscore.com\/match\/football\/leeds-tUxUbLR2\/newcastle-utd-p6ahwuwJ\/?mid=Q1TGrNGq"
+  },
+  "empty" : false,
+  "fixtureMore" : false,
+  "fixtures" : [
+
+  ],
+  "h2hLinks" : [
+
+  ],
+  "sections" : [
+
+  ],
+  "timeZone" : "Europe\/Belgrade"
+}

@@ -1,0 +1,129 @@
+{
+  "detail" : null,
+  "empty" : false,
+  "fixtureMore" : false,
+  "fixtures" : [
+    {
+      "away" : "Philippines U23",
+      "competition" : "",
+      "date" : "",
+      "home" : "Uzbekistan U23",
+      "leagueCountry" : "ASIA",
+      "leagueFlag" : "",
+      "leagueName" : "Asian Games",
+      "leaguePath" : "asia\/asian-games",
+      "score" : [
+        5,
+        1
+      ],
+      "status" : "finished",
+      "statusText" : "Finished ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/philippines-2H8DpjWb\/uzbekistan-bJcArLW4\/?mid=0hZwEhEb"
+    },
+    {
+      "away" : "Kuwait U23",
+      "competition" : "",
+      "date" : "",
+      "home" : "Vietnam U23",
+      "leagueCountry" : "ASIA",
+      "leagueFlag" : "",
+      "leagueName" : "Asian Games",
+      "leaguePath" : "asia\/asian-games",
+      "score" : [
+        1,
+        1
+      ],
+      "status" : "finished",
+      "statusText" : "Finished ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/kuwait-YPYOUEU6\/vietnam-pp1OoFY8\/?mid=8IxnCWrB"
+    },
+    {
+      "away" : "South Korea U23",
+      "competition" : "",
+      "date" : "",
+      "home" : "Qatar U23",
+      "leagueCountry" : "ASIA",
+      "leagueFlag" : "",
+      "leagueName" : "Asian Games",
+      "leaguePath" : "asia\/asian-games",
+      "score" : [
+        1,
+        4
+      ],
+      "status" : "finished",
+      "statusText" : "Finished ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/qatar-GEEuPVTi\/south-korea-2XDKedgb\/?mid=baJIgOSq"
+    },
+    {
+      "away" : "Willem II",
+      "competition" : "",
+      "date" : "15.09.2026 20:00",
+      "home" : "Ajax",
+      "leagueCountry" : "NETHERLANDS",
+      "leagueFlag" : "",
+      "leagueName" : "Eredivisie",
+      "leaguePath" : "netherlands\/eredivisie",
+      "score" : [
+
+      ],
+      "status" : "scheduled",
+      "statusText" : " ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/ajax-8UOvIwnb\/willem-ii-6u3qag0G\/?mid=l4bCcu0l"
+    },
+    {
+      "away" : "Espanyol",
+      "competition" : "",
+      "date" : "15.09.2026 19:00",
+      "home" : "Rayo Vallecano",
+      "leagueCountry" : "SPAIN",
+      "leagueFlag" : "",
+      "leagueName" : "LaLiga",
+      "leaguePath" : "spain\/laliga",
+      "score" : [
+
+      ],
+      "status" : "scheduled",
+      "statusText" : " ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/espanyol-QFfPdh1J\/rayo-vallecano-8bcjFy6O\/?mid=rNqB5OH8"
+    },
+    {
+      "away" : "Valencia",
+      "competition" : "",
+      "date" : "15.09.2026 20:00",
+      "home" : "Alaves",
+      "leagueCountry" : "SPAIN",
+      "leagueFlag" : "",
+      "leagueName" : "LaLiga",
+      "leaguePath" : "spain\/laliga",
+      "score" : [
+
+      ],
+      "status" : "scheduled",
+      "statusText" : " ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/alaves-hxt57t2q\/valencia-CQeaytrD\/?mid=Q9s7530B"
+    },
+    {
+      "away" : "Real Madrid",
+      "competition" : "",
+      "date" : "15.09.2026 21:30",
+      "home" : "Elche",
+      "leagueCountry" : "SPAIN",
+      "leagueFlag" : "",
+      "leagueName" : "LaLiga",
+      "leaguePath" : "spain\/laliga",
+      "score" : [
+
+      ],
+      "status" : "scheduled",
+      "statusText" : " ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/elche-4jl02tPF\/real-madrid-W8mj7MDD\/?mid=jmTy4Bt4"
+    }
+  ],
+  "h2hLinks" : [
+
+  ],
+  "sections" : [
+
+  ],
+  "timeZone" : "Europe\/Belgrade"
+}

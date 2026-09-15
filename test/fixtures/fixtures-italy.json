@@ -1,0 +1,50 @@
+{
+  "detail" : null,
+  "empty" : false,
+  "fixtureMore" : false,
+  "fixtures" : [
+    {
+      "away" : "Sassuolo",
+      "competition" : "",
+      "date" : "18.09. 20:45",
+      "home" : "Monza",
+      "score" : [
+
+      ],
+      "status" : "scheduled",
+      "statusText" : " ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/monza-4YSMlwj7\/sassuolo-QDdvI0zl\/?mid=p2Id0Xtg"
+    },
+    {
+      "away" : "Torino",
+      "competition" : "",
+      "date" : "19.09. 15:00",
+      "home" : "Bologna",
+      "score" : [
+
+      ],
+      "status" : "scheduled",
+      "statusText" : " ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/bologna-0M9xNN8N\/torino-MZFZnvX4\/?mid=fVvHmfcm"
+    },
+    {
+      "away" : "Cagliari",
+      "competition" : "",
+      "date" : "19.09. 15:00",
+      "home" : "Udinese",
+      "score" : [
+
+      ],
+      "status" : "scheduled",
+      "statusText" : " ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/cagliari-SCGVmKHb\/udinese-rXw8YKDE\/?mid=ImxKfTAU"
+    }
+  ],
+  "h2hLinks" : [
+
+  ],
+  "sections" : [
+
+  ],
+  "timeZone" : "Europe\/Belgrade"
+}

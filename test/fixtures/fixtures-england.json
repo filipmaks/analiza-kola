@@ -1,0 +1,50 @@
+{
+  "detail" : null,
+  "empty" : false,
+  "fixtureMore" : false,
+  "fixtures" : [
+    {
+      "away" : "Chelsea",
+      "competition" : "",
+      "date" : "18.09. 21:00",
+      "home" : "Brentford",
+      "score" : [
+
+      ],
+      "status" : "scheduled",
+      "statusText" : " ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/brentford-xYe7DwID\/chelsea-4fGZN2oK\/?mid=ObA4gvV1"
+    },
+    {
+      "away" : "Aston Villa",
+      "competition" : "",
+      "date" : "19.09. 13:30",
+      "home" : "Tottenham",
+      "score" : [
+
+      ],
+      "status" : "scheduled",
+      "statusText" : " ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/aston-villa-W00wmLO0\/tottenham-UDg08Ohm\/?mid=4Sl9Mxal"
+    },
+    {
+      "away" : "Arsenal",
+      "competition" : "",
+      "date" : "19.09. 16:00",
+      "home" : "Brighton",
+      "score" : [
+
+      ],
+      "status" : "scheduled",
+      "statusText" : " ",
+      "url" : "https:\/\/www.flashscore.com\/match\/football\/arsenal-hA1Zm19f\/brighton-2XrRecc3\/?mid=j52jHsN8"
+    }
+  ],
+  "h2hLinks" : [
+
+  ],
+  "sections" : [
+
+  ],
+  "timeZone" : "Europe\/Belgrade"
+}

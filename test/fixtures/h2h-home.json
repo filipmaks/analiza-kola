@@ -1,0 +1,173 @@
+{
+  "detail" : {
+    "away" : "Newcastle",
+    "awayURL" : "https:\/\/www.flashscore.com\/team\/newcastle-utd\/p6ahwuwJ\/",
+    "date" : "14.09.2026 21:00",
+    "headers" : [
+
+    ],
+    "home" : "Leeds",
+    "homeURL" : "https:\/\/www.flashscore.com\/team\/leeds\/tUxUbLR2\/",
+    "score" : [
+      4,
+      1
+    ],
+    "statusText" : "Finished",
+    "url" : "https:\/\/www.flashscore.com\/match\/football\/leeds-tUxUbLR2\/newcastle-utd-p6ahwuwJ\/?mid=Q1TGrNGq"
+  },
+  "empty" : false,
+  "fixtureMore" : false,
+  "fixtures" : [
+
+  ],
+  "h2hLinks" : [
+
+  ],
+  "sections" : [
+    {
+      "index" : 0,
+      "more" : true,
+      "rows" : [
+        {
+          "away" : "Newcastle",
+          "competition" : "Premier League (England)",
+          "date" : "14.09.26",
+          "home" : "Leeds",
+          "score" : [
+            4,
+            1
+          ],
+          "status" : "finished",
+          "statusText" : " ",
+          "url" : "https:\/\/www.flashscore.com\/match\/football\/leeds-tUxUbLR2\/newcastle-utd-p6ahwuwJ\/?mid=Q1TGrNGq"
+        },
+        {
+          "away" : "Brentford",
+          "competition" : "Premier League (England)",
+          "date" : "30.08.26",
+          "home" : "Leeds",
+          "score" : [
+            1,
+            1
+          ],
+          "status" : "finished",
+          "statusText" : " ",
+          "url" : "https:\/\/www.flashscore.com\/match\/football\/brentford-xYe7DwID\/leeds-tUxUbLR2\/?mid=KQ1EQTw1"
+        },
+        {
+          "away" : "Augsburg",
+          "competition" : "Club Friendly (World)",
+          "date" : "15.08.26",
+          "home" : "Leeds",
+          "score" : [
+            4,
+            0
+          ],
+          "status" : "finished",
+          "statusText" : " ",
+          "url" : "https:\/\/www.flashscore.com\/match\/football\/augsburg-fTVNku3I\/leeds-tUxUbLR2\/?mid=bs2Ycref"
+        },
+        {
+          "away" : "RB Leipzig",
+          "competition" : "Club Friendly (World)",
+          "date" : "08.08.26",
+          "home" : "Leeds",
+          "score" : [
+            2,
+            0
+          ],
+          "status" : "finished",
+          "statusText" : " ",
+          "url" : "https:\/\/www.flashscore.com\/match\/football\/leeds-tUxUbLR2\/rb-leipzig-KbS1suSm\/?mid=IurEgoDT"
+        },
+        {
+          "away" : "Brighton",
+          "competition" : "Premier League (England)",
+          "date" : "17.05.26",
+          "home" : "Leeds",
+          "score" : [
+            1,
+            0
+          ],
+          "status" : "finished",
+          "statusText" : " ",
+          "url" : "https:\/\/www.flashscore.com\/match\/football\/brighton-2XrRecc3\/leeds-tUxUbLR2\/?mid=OM7eo4FN"
+        }
+      ],
+      "title" : "Last matches: Leeds"
+    },
+    {
+      "index" : 1,
+      "more" : true,
+      "rows" : [
+        {
+          "away" : "Newcastle",
+          "competition" : "Premier League (England)",
+          "date" : "14.09.26",
+          "home" : "Leeds",
+          "score" : [
+            4,
+            1
+          ],
+          "status" : "finished",
+          "statusText" : " ",
+          "url" : "https:\/\/www.flashscore.com\/match\/football\/leeds-tUxUbLR2\/newcastle-utd-p6ahwuwJ\/?mid=Q1TGrNGq"
+        },
+        {
+          "away" : "Newcastle",
+          "competition" : "Premier League (England)",
+          "date" : "30.08.25",
+          "home" : "Leeds",
+          "score" : [
+            0,
+            0
+          ],
+          "status" : "finished",
+          "statusText" : " ",
+          "url" : "https:\/\/www.flashscore.com\/match\/football\/leeds-tUxUbLR2\/newcastle-utd-p6ahwuwJ\/?mid=GQkNY1SO"
+        },
+        {
+          "away" : "Newcastle",
+          "competition" : "Premier League (England)",
+          "date" : "13.05.23",
+          "home" : "Leeds",
+          "score" : [
+            2,
+            2
+          ],
+          "status" : "finished",
+          "statusText" : " ",
+          "url" : "https:\/\/www.flashscore.com\/match\/football\/leeds-tUxUbLR2\/newcastle-utd-p6ahwuwJ\/?mid=YJLx0Txk"
+        },
+        {
+          "away" : "Newcastle",
+          "competition" : "Premier League (England)",
+          "date" : "22.01.22",
+          "home" : "Leeds",
+          "score" : [
+            0,
+            1
+          ],
+          "status" : "finished",
+          "statusText" : " ",
+          "url" : "https:\/\/www.flashscore.com\/match\/football\/leeds-tUxUbLR2\/newcastle-utd-p6ahwuwJ\/?mid=r3EGk6s7"
+        },
+        {
+          "away" : "Newcastle",
+          "competition" : "Premier League (England)",
+          "date" : "16.12.20",
+          "home" : "Leeds",
+          "score" : [
+            5,
+            2
+          ],
+          "status" : "finished",
+          "statusText" : " ",
+          "url" : "https:\/\/www.flashscore.com\/match\/football\/leeds-tUxUbLR2\/newcastle-utd-p6ahwuwJ\/?mid=EFpk7uAH"
+        }
+      ],
+      "title" : "Head-to-head matches"
+    }
+  ],
+  "timeZone" : "Europe\/Belgrade"
+}

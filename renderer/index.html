@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="sr-Latn">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; font-src 'self'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fudbalski pregled</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <span class="brand-mark" data-icon="ball"></span>
+        <div><strong>Fudbalski</strong><span>pregled</span></div>
+      </div>
+      <nav id="nav"></nav>
+      <section class="my-leagues">
+        <h6>MOJE LIGE</h6>
+        <div id="my-leagues"></div>
+        <button class="link small" data-action="go" data-to="settings">Izmeni izbor</button>
+      </section>
+      <div class="sidebar-foot">
+        <span><i data-icon="disk"></i>Podaci ostaju na ovom računaru</span>
+        <small>Preuzimanje samo na tvoj zahtev.</small>
+      </div>
+    </aside>
+    <main>
+      <header class="topbar">
+        <strong id="title">Dnevni izveštaj</strong>
+        <span class="spacer"></span>
+        <span class="muted small"><i data-icon="globe"></i>Europe/Belgrade</span>
+        <span id="status-dot" class="dot"></span>
+        <span id="status" class="muted small">Spremno</span>
+      </header>
+      <div class="scroll" id="scroll"><div class="content" id="content"></div></div>
+    </main>
+  </div>
+  <div class="overlay" id="overlay" hidden></div>
+  <script src="../src/core/core.js"></script>
+  <script src="icons.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
